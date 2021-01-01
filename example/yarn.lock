@@ -5534,8 +5534,10 @@ react-native-country-picker-modal@^1.11.0:
     prop-types "15.7.2"
     react-async-hook "3.6.1"
 
-react-native-phone-number-input@../:
-  version "1.1.0"
+react-native-phone-number-input@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-phone-number-input/-/react-native-phone-number-input-1.2.0.tgz#282a2c454f9771ca9b0a6a1c7c62f2e4e66c2f4b"
+  integrity sha512-jZDJUJxRIas9TbEyVHLmeQjvcCkoeMyiaI87EOa9aNDx3UrF0+D6ncYm49dwxXxpicY+653EBNQjsEOsCYHd8A==
   dependencies:
     google-libphonenumber "^3.2.10"
     react-native-country-picker-modal "^1.11.0"
